@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:iconTint="#fff000"/>
+    <item
+        android:id="@+id/sanbong"
+        android:title="Sân Bóng"
+        android:icon="@drawable/ic_border"/>
+    <item
+        android:id="@+id/clb"
+        android:title="CLB"
+        android:icon="@drawable/ic_grade"/>
+    <item
+        android:id="@+id/thongbao"
+        android:title="Thông báo"
+        android:icon="@drawable/ic_announcement"/>
+    <item
+        android:id="@+id/taikhoan"
+        android:title="Tài khoản"
+        android:icon="@drawable/ic_account"/>
+</menu>
